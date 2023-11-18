@@ -6,11 +6,11 @@ This project aims to build a Mortgage Price Predictor using mortgage data from t
 
 ## Dataset
 
-The dataset used for this project can be found [here](https://kaggle.com/datasets/75cacaff0f013e5f3248d463f42314e767e22d3bb8c9c34a2621cb96b7c82998). It includes various features related to mortgages, such as loan amount, interest rate, property type, location, and more. The dataset is crucial for training and evaluating the machine learning model.
+The dataset used for this project can be found [here](https://kaggle.com/datasets/75cacaff0f013e5f3248d463f42314e767e22d3bb8c9c34a2621cb96b7c82998). It includes various features related to mortgages, such as loan amount, interest rate, property type, location, and more. The dataset is crucial for training and evaluating the machine learning model. Plus the cleaned version of this data is [here](https://drive.google.com/drive/folders/1KZtulV01OmYh0JVklIGXOiTd0ZZ3OfoW?usp=sharing).
 
 ## Project Workflow
 
-1. **Data Collection**: We obtained the dataset from [source] and performed data cleaning and preprocessing.
+1. **Data Collection**: We obtained the dataset from [source](https://kaggle.com/datasets/75cacaff0f013e5f3248d463f42314e767e22d3bb8c9c34a2621cb96b7c82998) and performed data cleaning and preprocessing.
 
 2. **Data Exploration**: We analyzed the dataset to gain insights into the data distribution, correlations, and potential patterns.
 
@@ -68,5 +68,3 @@ If you have any questions, suggestions, or issues related to this project, pleas
 - Ahmed Abdullah: [Email](mailto:business.ahmadabdullah@gmail.com)
 
 We hope this Mortgage Price Predictor is helpful to you!
-
-You can expand on this README as needed to provide more details about the project, its features, technical details, or any additional information that would be relevant to users or contributors.
