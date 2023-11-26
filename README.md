@@ -1,26 +1,26 @@
-# Mortgage Price Predictor
+# House Pricing Predictor
 
 ## Project Overview
 
-This project aims to build a Mortgage Price Predictor using mortgage data from the USA. It is developed by [Zaeem Ul Islam](https://github.com/mightyflavor/) and [Ahmed Abdullah](https://github.com/ahmedembeddedx). The goal of this project is to provide an accurate prediction of mortgage prices, which can be valuable for homebuyers, real estate professionals, and financial institutions.
+Welcome to the House Pricing Predictor project! This predictive model is designed to estimate house prices based on various features. The project is developed by [Zaeem Ul Islam](https://github.com/mightyflavor/) and [Ahmed Abdullah](https://github.com/ahmedembeddedx). You can find the project repository [here](https://github.com/mightyflavor/house-pricing-predictor).
 
 ## Dataset
 
-The dataset used for this project can be found [here](https://kaggle.com/datasets/75cacaff0f013e5f3248d463f42314e767e22d3bb8c9c34a2621cb96b7c82998). It includes various features related to mortgages, such as loan amount, interest rate, property type, location, and more. The dataset is crucial for training and evaluating the machine learning model. Plus the cleaned version of this data is [here](https://drive.google.com/drive/folders/1KZtulV01OmYh0JVklIGXOiTd0ZZ3OfoW?usp=sharing).
+The dataset for this project is available [here](https://www.kaggle.com/datasets/ahmedembedded/pakistan-houses-pricing-data-web-scrapped). It contains essential information about houses, including square footage, number of bedrooms, location, and more. Cleaning and preprocessing of the data have been performed to ensure its suitability for training and evaluating the machine learning model.
 
 ## Project Workflow
 
-1. **Data Collection**: We obtained the dataset from [source](https://kaggle.com/datasets/75cacaff0f013e5f3248d463f42314e767e22d3bb8c9c34a2621cb96b7c82998) and performed data cleaning and preprocessing.
+1. **Data Collection**: The dataset was sourced from [Zameen.com]. Cleaning and preprocessing were performed to enhance data quality.
 
-2. **Data Exploration**: We analyzed the dataset to gain insights into the data distribution, correlations, and potential patterns.
+2. **Data Exploration**: An in-depth analysis of the dataset was conducted to gain insights into data distribution, correlations, and potential patterns.
 
-3. **Feature Engineering**: We selected and engineered relevant features for model training.
+3. **Feature Engineering**: Relevant features were selected and engineered to enhance the model's predictive capabilities.
 
-4. **Model Building**: We implemented machine learning algorithms to build the mortgage price prediction model.
+4. **Model Building**: Machine learning algorithms were implemented to build an accurate house pricing prediction model.
 
-5. **Model Evaluation**: We assessed the model's performance using various evaluation metrics and cross-validation techniques.
+5. **Model Evaluation**: The model's performance was assessed using various evaluation metrics and cross-validation techniques.
 
-6. **Deployment**: We deployed the model as a user-friendly web application for end-users to predict mortgage prices.
+6. **Deployment**: The model has been deployed as a user-friendly web application, allowing end-users to predict house prices conveniently.
 
 ## Getting Started
 
@@ -29,23 +29,22 @@ To run or develop this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/mightyflavor/house-pricing-predictor.git
    ```
 
 2. Install the required dependencies:
 
    ```bash
-   pip install -r 
-   ``
+   pip install -r requirements.txt
+   ```
 
 4. Access the application in your web browser at `http://localhost:5000`.
-5. For ease of access it is available on GitHub Pages.
 
 ## Usage
 
-1. Input the relevant mortgage information, such as loan amount, interest rate, property type, and location.
+1. Input the relevant house information, such as square footage, number of bedrooms, location, etc.
 
-2. Click the "Predict" button to obtain the predicted mortgage price.
+2. Click the "Predict" button to obtain the estimated house price.
 
 ## Technologies Used
 
@@ -57,14 +56,13 @@ To run or develop this project locally, follow these steps:
 - JavaScript
 
 ## Author
-
+- [Ahmed Abdullah](https://github.com/ahmedembeddedx/)
 - [Zaeem Ul Islam](https://github.com/mightyflavor/)
-- [Ahmed Abdullah](https://github.com/ahmedembeddedx)
 
 ## Contact
 
-If you have any questions, suggestions, or issues related to this project, please feel free to contact the authors:
+If you have any questions, suggestions, or issues related to this project, please feel free to contact the author:
 
-- Ahmed Abdullah: [Email](mailto:business.ahmadabdullah@gmail.com)
+- [Ahmed Abdullah](mailto:business.ahmadabdullah@gmail.com)
 
-We hope this Mortgage Price Predictor is helpful to you!
+We hope this House Pricing Predictor is valuable for your housing-related decisions!
