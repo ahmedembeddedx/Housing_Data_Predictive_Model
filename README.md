@@ -29,7 +29,7 @@ To run or develop this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/mightyflavor/house-pricing-predictor.git
+   git clone https://github.com/ahmedembeddedx/Housing_Data_Predictive_Model.git
    ```
 
 2. Install the required dependencies:
