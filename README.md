@@ -38,7 +38,7 @@ To run or develop this project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-4. Access the application in your web browser at `http://localhost:5000`.
+4. Access the application in your web browser at `[House Price Predictor](https://house-price-predictor.anvil.app/)`.
 
 ## Usage
 
