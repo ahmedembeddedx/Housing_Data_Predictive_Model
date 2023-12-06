@@ -10,7 +10,7 @@ The dataset for this project is available [here](https://www.kaggle.com/datasets
 
 ## Project Workflow
 
-1. **Data Collection**: The dataset was sourced from [Zameen.com]. Cleaning and preprocessing were performed to enhance data quality.
+1. **Data Collection**: The dataset was sourced from [Zameen](zameen.com). Cleaning and preprocessing were performed to enhance data quality.
 
 2. **Data Exploration**: An in-depth analysis of the dataset was conducted to gain insights into data distribution, correlations, and potential patterns.
 
@@ -38,7 +38,7 @@ To run or develop this project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-4. Access the application in your web browser at `[House Price Predictor](https://house-price-predictor.anvil.app/)`.
+4. Access the application in your web browser at [House Price Predictor](https://house-price-predictor.anvil.app/).
 
 ## Usage
 
